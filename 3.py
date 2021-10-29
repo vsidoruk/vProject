@@ -1,3 +1,3 @@
 print('green')
 print('-style')
-print(3+1+0)
+print(3+1+2)
