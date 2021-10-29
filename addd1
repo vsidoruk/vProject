@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 print('+')
+=======
+print('2stashq.')
+print('+')
+>>>>>>> Stashed changes
