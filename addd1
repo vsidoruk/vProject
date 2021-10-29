@@ -2,5 +2,9 @@
 print('+')
 =======
 print('2stashq.')
+<<<<<<< Updated upstream
 print('+')
+>>>>>>> Stashed changes
+=======
+print('+/')
 >>>>>>> Stashed changes
